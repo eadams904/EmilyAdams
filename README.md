@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eadams904 (or Emily)
 - 👀 I’m interested in Data Analyst/Data Science roles
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ETL/ELT and advanced analysis
+- 💞️ I’m looking to collaborate on ETL/ELT and advanced analyses
 - 📫 How to reach me: emilyadams904@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: First language I learned was Thai :p ...then SQL
