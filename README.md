@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eadams904
+- 👋 Hi, I’m @eadams904 (Emily Adams)
 - 👀 I’m interested in Data Analyst/Data Science roles
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ETL/ELT and advanced analysis
