@@ -1,6 +1,6 @@
 -- Data Exploration Project
 -- Worldwide Covid Analysis
--- data source:
+-- data source: https://ourworldindata.org/explorers/coronavirus-data-explorer 
 
 select *
 from test_schema.CovidDeaths
