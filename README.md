@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eadams904 (or Emily)
 - 👀 I’m interested in Data Analyst/Data Science roles
-- 🌱 I’m currently learning python, pyspark
+- 🌱 I’m currently learning python, pyspark, dbt
 - 💞️ I’m looking to collaborate on ETL/ELT and advanced analyses
 - 📫 How to reach me: emilyadams904@gmail.com
 - 😄 Pronouns: She/Her
