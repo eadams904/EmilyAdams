@@ -1,4 +1,6 @@
 ##customer lifetime value 
+#bucketing customers into low, medium, and high worth customers based on total revenue, avg purchase value and purchase frequency 
+
 library(dplyr)
 library(lubridate)
 
