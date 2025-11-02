@@ -1,5 +1,5 @@
 #customer segmentation using regression analysis and RFM
-
+##what channels affect RFM (recency, frequency, monetary): email, social, paids ads, and/or referrals
 library(dplyr)
 
 # Suppose marketing_data already has rfm_score
