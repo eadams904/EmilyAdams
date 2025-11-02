@@ -1,4 +1,5 @@
 ## churn analysis
+# to find what customers are leaving the product/service based on tenure, monthly spend, number of emails opened, and last login 
 
 # Install packages if you don't have them
 install.packages(c("tidyverse", "caret", "caTools", "ROCR"))
